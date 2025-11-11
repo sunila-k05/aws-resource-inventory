@@ -1,15 +1,15 @@
-# 🚀 AWS Cloud Resource Inventory Automation using Shell Script
+# AWS Cloud Resource Inventory Automation using Shell Script
 
-## 🧩 Objective
+## Objective
 Automatically list AWS cloud resources across multiple services using a single Bash script, instead of manually checking each service inside the AWS Console.
 
-## 🛠 Tools Used
+##  Tools Used
 - AWS EC2 (Ubuntu)
 - AWS CLI v2
 - Linux Shell Scripting
 - IAM user (ReadOnlyAccess)
 
-## 📜 Description
+##  Description
 This script takes **2 inputs**:
 
 1) AWS Region  
@@ -34,7 +34,7 @@ Based on this, it calls AWS CLI and prints all resources for that service.
 
 ---
 
-## ✅ Sample Results
+## Sample Results
 
 | Service | Command | Output Summary |
 |---------|---------|----------------|
@@ -44,7 +44,7 @@ Based on this, it calls AWS CLI and prints all resources for that service.
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 Using this shell script, we can **automate AWS resource inventory** without opening AWS console.
 
 This saves time and helps DevOps engineers to **quickly audit clou**
