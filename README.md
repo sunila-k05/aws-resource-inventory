@@ -47,4 +47,8 @@ Based on this, it calls AWS CLI and prints all resources for that service.
 ## Conclusion
 Using this shell script, we can **automate AWS resource inventory** without opening AWS console.
 
-This saves time and helps DevOps engineers to **quickly audit clou**
+This saves time and helps DevOps engineers to **quickly audit cloud**
+
+## VPC 
+Security Groups & NACL
+<img width="1102" height="452" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/409d7f2f-2071-4f1a-ab79-02673a739c3a" />
