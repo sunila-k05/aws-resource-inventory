@@ -51,5 +51,6 @@ This saves time and helps DevOps engineers to **quickly audit cloud**
 
 ## VPC 
 Security Groups & NACL
-<img width="1102" height="582" alt="Untitled Diagram drawio (3)" src="https://github.com/user-attachments/assets/b71245cf-2931-474f-acea-557396a1367b" />
+<img width="1536" height="1024" alt="Terraform architecture with AWS services" src="https://github.com/user-attachments/assets/d8a49cf1-23d4-4b02-b46a-48c3e019845b" />
+
 
