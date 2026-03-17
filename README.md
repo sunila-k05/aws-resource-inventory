@@ -51,4 +51,5 @@ This saves time and helps DevOps engineers to **quickly audit cloud**
 
 ## VPC 
 Security Groups & NACL
-<img width="1102" height="452" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/409d7f2f-2071-4f1a-ab79-02673a739c3a" />
+<img width="1102" height="582" alt="Untitled Diagram drawio (3)" src="https://github.com/user-attachments/assets/b71245cf-2931-474f-acea-557396a1367b" />
+
