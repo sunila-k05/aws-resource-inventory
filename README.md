@@ -7,7 +7,7 @@ Automatically list AWS cloud resources across multiple services using a single B
 - AWS EC2 (Ubuntu)
 - AWS CLI v2
 - Linux Shell Scripting
-- IAM user (ReadOnlyAccess)
+- IAM user 
 
 ##  Description
 This script takes **2 inputs**:
